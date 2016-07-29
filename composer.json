@@ -1,7 +1,7 @@
 {
   "name": "alex-oliveira/ao-recaptcha",
   "homepage": "http://github.com/alex-oliveira/ao-recaptcha",
-  "description": "ao-recaptcha",
+  "description": "Using Google ReCaptcha with Laravel 5.1",
   "license": "MIT",
   "keywords": [
     "alex-oliveira",
