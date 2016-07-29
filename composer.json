@@ -1,0 +1,28 @@
+{
+  "name": "alex-oliveira/ao-recaptcha",
+  "homepage": "http://github.com/alex-oliveira/ao-recaptcha",
+  "description": "ao-recaptcha",
+  "license": "MIT",
+  "keywords": [
+    "alex-oliveira",
+    "ao-recaptcha",
+    "recaptcha"
+  ],
+  "authors": [
+    {
+      "name": "Alex Oliveira",
+      "email": "bsi.alexoliveira@gmail.com",
+      "homepage": "http://alexdeoliveira.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.9",
+    "laravel/framework": "5.1.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "AoReCaptcha\\": "src/"
+    }
+  }
+}
