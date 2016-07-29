@@ -30,12 +30,12 @@ $ php artisan vendor:publish
 
 ## 2) Using
 
-Add before "</head>"
+Add before ``</head>``
 ````
 {!! recaptcha()->script() !!}
 ````
 
-Add between "<form>" and "</form>"
+Add between ``<form>`` and ``</form>``
 ````
 {!! recaptcha()->input() !!}
 ````
